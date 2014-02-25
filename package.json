@@ -1,11 +1,13 @@
 {
-  "name": "datx02-sample",
+  "name": "connection-peerjs",
   "description": "Sample module project for course DATX02",
+  "repository": "https://github.com/rymdjs/peerjs-connection.git",
   "version": "0.0.1",
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
-    "q": "1.0.x"
+    "q": "1.0.x",
+    "peerjs": "git://github.com/peers/peerjs.git#0.3.7"
   },
   "scripts": {
     "test": "gulp test"
