@@ -1,5 +1,5 @@
 {
-  "name": "connection-peerjs",
+  "name": "peerjs-connection",
   "description": "Sample module project for course DATX02",
   "repository": "https://github.com/rymdjs/peerjs-connection.git",
   "version": "0.0.1",
