@@ -7,6 +7,7 @@
   "main": "lib/index.js",
   "dependencies": {
     "q": "1.0.x",
+    "rymd-utils": "git://github.com/rymdjs/rymd-utils.git#master",
     "peerjs": "git://github.com/peers/peerjs.git#0.3.7"
   },
   "scripts": {
